@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"net.etfbl.model","l":"CalculatorAdvanced"}]

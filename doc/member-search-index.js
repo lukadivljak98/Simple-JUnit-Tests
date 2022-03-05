@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"net.etfbl.model","c":"CalculatorAdvanced","l":"calculateAdvanced(char)"},{"p":"net.etfbl.model","c":"CalculatorAdvanced","l":"CalculatorAdvanced()","url":"%3Cinit%3E()"},{"p":"net.etfbl.model","c":"CalculatorAdvanced","l":"hasCharacteristic(char)"}]
